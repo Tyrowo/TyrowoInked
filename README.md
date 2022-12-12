@@ -10,3 +10,5 @@ This final version was created on Feb 1, 2021.
 Now that I've used the font for a few years, the repository has been updated with my expressly given OFL Licensing, copyrighted on 12/12/202. 
 This is in the hopes that it will be able to be made publicly available as a contribution in the Google Fonts repository.
 No RFN was chosen for the font intentionally to make this process go as easily as possible.
+
+![tyrowo inked preview](https://user-images.githubusercontent.com/74413184/206972440-8aa62a33-65e7-4768-8946-743b25933f99.png)
