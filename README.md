@@ -9,3 +9,4 @@ This final version was created on Feb 1, 2021.
 
 Now that I've used the font for a few years, the repository has been updated with my expressly given OFL Licensing, copyrighted on 12/12/202. 
 This is in the hopes that it will be able to be made publicly available as a contribution in the Google Fonts repository.
+No RFN was chosen for the font intentionally to make this process go as easily as possible.
