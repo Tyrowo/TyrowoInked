@@ -1,0 +1,75 @@
+This folder contains all the previous iterations of the then-named Tyro Inked font
+
+version update notes
+
+v5.0 - 2/1/2021 - current - last before letting calligraphr subscription expire
+  created chars for ō and lined vowels
+  fixed p and q spacing
+  fixed marked vowel spacing and cleaned old chars
+  created new alts for nums and SUYZ
+  adjusted t left spacing for one var
+  removed some fatty letters (i)
+
+v4.1 - 1/23/2021
+  had to remove some pixels from broken heart emoji
+  inc . size
+
+v4.0 -  1/22/2021 - Final Build (lol yea rite)
+  added emotes that I wanted - implemented TAYNE
+  had to replace old letters because they were incompatible with new cleaned variants
+  added many more variant characters for A-Za-z0-9!?
+  first and second pass at cleaning up new chars and resizing
+
+
+v3.0 - 1/12/2021
+  uploaded alternate chars for ascii randomization
+  min 3 max 5 variants per character
+  had to fix pixels, adjust baseline and sizes for all
+  made an extra ! character
+  made a new # character
+
+
+v2.2 - 1-4-2021
+  resized all character by size comparison chart again. Fine tuned. P great.
+  got rid of some speck pixels on numerals 2, 4, 0, ---
+  tweaked some spacing on some capital letters
+  fixed g size
+  paragraph symbol
+  
+
+v2.1 - 1-3-2021
+  tried to adjust all character spacing based on size comparison chart but 
+  < right side spacing should be a little smaller, but might be from speck
+  < has a speck on the top right maybe
+  C needs to shift down a few
+  d's are one notch too high
+  some latin char spacing
+
+
+v2.0 - 12-21-2020
+  added latin and math chars,
+    tried to size by eye. could use some more fine tuning
+  corrected issues from 1.0
+    respaced l's, ''s
+    modified spacing on ; and .
+
+v1.0 - 12-7-2020 - current version
+  just alpha and punctuation,
+    picked out letters, 
+    got rid of artifact, 
+    matched sizing, 
+    adjusted spacing on both ends for every character(?);
+v1.1
+  tried making a bigger font size in callig
+  didn't work, switched back
+
+
+working list of issues:
+  cube root 3 needs fixed
+  tail on Y should get trimmed
+
+to do:
+  add emoji
+  test character randomization
+  add randomizeds
+
