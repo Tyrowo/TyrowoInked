@@ -11,4 +11,4 @@ Now that I've used the font for a few years, the repository has been uploaded wi
 This is in the hopes that it will be able to be made publicly available as a contribution in the Google Fonts repository.
 No RFN was chosen for the font intentionally to make this process go as easily as possible.
 
-![tyrowo inked preview](https://user-images.githubusercontent.com/74413184/206972440-8aa62a33-65e7-4768-8946-743b25933f99.png)
+![tyrowoInkedPreview](https://user-images.githubusercontent.com/74413184/207468428-aae1f758-46c9-4169-a069-1732a59152d9.png)
